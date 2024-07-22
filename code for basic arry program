@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class github{
+    public static void main(String args[]){
+       String name[] = {"BMW","Volvo","Benz","Audi" };
+       System.out.println(name[3]);
+        
+        
+    }
+}
